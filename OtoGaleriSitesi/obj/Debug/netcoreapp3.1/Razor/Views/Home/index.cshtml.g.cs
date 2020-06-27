@@ -12,15 +12,8 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
-#nullable restore
-#line 1 "/Users/kullanici/RiderProjects/OtoGaleriSitesi/OtoGaleriSitesi/Views/_ViewImports.cshtml"
-using OtoGaleriSitesi;
-
-#line default
-#line hidden
-#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c3c3d0ede054ec59340e9a3f8c419ce395c88ef3", @"/Views/Home/index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d946f1f85c2b4b588f9a832707c74f83a5c64853", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"9d52cef7ef9f34a85bf9c6edd00263cc41b2bf6c", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("src", new global::Microsoft.AspNetCore.Html.HtmlString("~/Content/assets/img/home-2-about.png"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -152,7 +145,7 @@ using OtoGaleriSitesi;
 
          ");
             WriteLiteral("       <!-- About Video Start -->\n                <div class=\"col-lg-6\">\n                    <div class=\"about-image\">\n                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef320648", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef320462", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -372,7 +365,7 @@ using OtoGaleriSitesi;
                                 <!-- Choose Filtering Menu Start -->
                                 <div class=""home2-car-filter"">
                                     ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef330262", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef330076", async() => {
                 WriteLiteral("all");
             }
             );
@@ -389,7 +382,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef331518", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef331332", async() => {
                 WriteLiteral("Conver");
             }
             );
@@ -405,7 +398,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef332695", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef332509", async() => {
                 WriteLiteral("Truck");
             }
             );
@@ -421,7 +414,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef333871", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef333685", async() => {
                 WriteLiteral("MPV");
             }
             );
@@ -437,7 +430,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef335045", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef334859", async() => {
                 WriteLiteral("Sedan");
             }
             );
@@ -453,7 +446,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef336221", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef336035", async() => {
                 WriteLiteral("SUV");
             }
             );
@@ -482,9 +475,9 @@ using OtoGaleriSitesi;
                                         <div class=""single-popular-car"">
                                             <div class=""p-car-thumbnails"">
                                                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef338042", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef337856", async() => {
                 WriteLiteral("\n                                                    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef338346", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef338160", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -513,7 +506,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                            </div>\n\n                                            <div class=\"p-car-content\">\n                                                <h3>\n                                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef340675", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef340489", async() => {
                 WriteLiteral("Dodge Ram 1500");
             }
             );
@@ -535,7 +528,7 @@ using OtoGaleriSitesi;
 
                                                 <div class=""p-car-feature"">
                                                     ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef342112", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef341926", async() => {
                 WriteLiteral("2017");
             }
             );
@@ -550,7 +543,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef343221", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef343035", async() => {
                 WriteLiteral("manual");
             }
             );
@@ -565,7 +558,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef344332", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef344146", async() => {
                 WriteLiteral("AIR CONDITION");
             }
             );
@@ -591,9 +584,9 @@ using OtoGaleriSitesi;
                                         <div class=""single-popular-car"">
                                             <div class=""p-car-thumbnails"">
                                                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef346013", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef345827", async() => {
                 WriteLiteral("\n                                                    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef346317", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef346131", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -622,7 +615,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                            </div>\n\n                                            <div class=\"p-car-content\">\n                                                <h3>\n                                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef348646", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef348460", async() => {
                 WriteLiteral("Dodge Ram 1500");
             }
             );
@@ -644,7 +637,7 @@ using OtoGaleriSitesi;
 
                                                 <div class=""p-car-feature"">
                                                     ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef350083", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef349897", async() => {
                 WriteLiteral("2017");
             }
             );
@@ -659,7 +652,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef351192", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef351006", async() => {
                 WriteLiteral("manual");
             }
             );
@@ -674,7 +667,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef352303", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef352117", async() => {
                 WriteLiteral("AIR CONDITION");
             }
             );
@@ -700,9 +693,9 @@ using OtoGaleriSitesi;
                                         <div class=""single-popular-car"">
                                             <div class=""p-car-thumbnails"">
                                                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef353986", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef353800", async() => {
                 WriteLiteral("\n                                                   ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef354289", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef354103", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -731,7 +724,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                            </div>\n\n                                            <div class=\"p-car-content\">\n                                                <h3>\n                                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef356618", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef356432", async() => {
                 WriteLiteral("Dodge Ram 1500");
             }
             );
@@ -753,7 +746,7 @@ using OtoGaleriSitesi;
 
                                                 <div class=""p-car-feature"">
                                                     ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef358055", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef357869", async() => {
                 WriteLiteral("2017");
             }
             );
@@ -768,7 +761,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef359164", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef358978", async() => {
                 WriteLiteral("manual");
             }
             );
@@ -783,7 +776,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef360275", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef360089", async() => {
                 WriteLiteral("AIR CONDITION");
             }
             );
@@ -809,9 +802,9 @@ using OtoGaleriSitesi;
                                         <div class=""single-popular-car"">
                                             <div class=""p-car-thumbnails"">
                                                 ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef361954", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef361768", async() => {
                 WriteLiteral("\n                                                    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef362258", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef362072", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -840,7 +833,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                            </div>\n\n                                            <div class=\"p-car-content\">\n                                                <h3>\n                                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef364587", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef364401", async() => {
                 WriteLiteral("Dodge Ram 1500");
             }
             );
@@ -862,7 +855,7 @@ using OtoGaleriSitesi;
 
                                                 <div class=""p-car-feature"">
                                                     ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef366024", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef365838", async() => {
                 WriteLiteral("2017");
             }
             );
@@ -877,7 +870,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef367133", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef366947", async() => {
                 WriteLiteral("manual");
             }
             );
@@ -892,7 +885,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef368244", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef368058", async() => {
                 WriteLiteral("AIR CONDITION");
             }
             );
@@ -1032,9 +1025,9 @@ using OtoGaleriSitesi;
                                     <ul class=""nav nav-tabs"" id=""myTab"" role=""tablist"">
                                         <li class=""nav-item"">
                                             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef374498", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef374312", async() => {
                 WriteLiteral("\n                                                <div class=\"team-mem-icon\">\n                                                    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef374881", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef374695", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1067,9 +1060,9 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                        </li>\n                                        <li class=\"nav-item\">\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef377586", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef377400", async() => {
                 WriteLiteral("\n                                                <div class=\"team-mem-icon\">\n                                                    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef377969", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef377783", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1102,9 +1095,9 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                        </li>\n                                        <li class=\"nav-item\">\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef380676", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef380490", async() => {
                 WriteLiteral("\n                                                <div class=\"team-mem-icon\">\n                                                    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef381059", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef380873", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1137,9 +1130,9 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                        </li>\n                                        <li class=\"nav-item\">\n                                            ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef383763", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef383577", async() => {
                 WriteLiteral("\n                                                <div class=\"team-mem-icon\">\n                                                    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef384146", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef383960", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1187,7 +1180,7 @@ using OtoGaleriSitesi;
                                             <div class=""col-lg-6 col-md-6"">
                                                 <div class=""team-member-pro-pic"">
                                                     ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef387591", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef387405", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1212,7 +1205,7 @@ using OtoGaleriSitesi;
                                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sollicitudin fermentum dolor. Nunc nec augue urna. Cras varius orci vitae lacinia efficitur.</p>
                                                     <div class=""team-social-icon"">
                                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef389588", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef389402", async() => {
                 WriteLiteral("<i class=\"fa fa-facebook\"></i>");
             }
             );
@@ -1227,7 +1220,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef390729", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef390543", async() => {
                 WriteLiteral("<i class=\"fa fa-twitter\"></i>");
             }
             );
@@ -1242,7 +1235,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef391869", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef391683", async() => {
                 WriteLiteral("<i class=\"fa fa-linkedin\"></i>");
             }
             );
@@ -1257,7 +1250,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef393010", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef392824", async() => {
                 WriteLiteral("<i class=\"fa fa-pinterest\"></i>");
             }
             );
@@ -1272,7 +1265,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef394152", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef393966", async() => {
                 WriteLiteral("<i class=\"fa fa-dribbble\"></i>");
             }
             );
@@ -1300,7 +1293,7 @@ using OtoGaleriSitesi;
                                             <div class=""col-lg-6 col-md-6"">
                                                 <div class=""team-member-pro-pic"">
                                                     ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef396029", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef395843", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1325,7 +1318,7 @@ using OtoGaleriSitesi;
                                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sollicitudin fermentum dolor. Nunc nec augue urna. Cras varius orci vitae lacinia efficitur.</p>
                                                     <div class=""team-social-icon"">
                                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef398026", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef397840", async() => {
                 WriteLiteral("<i class=\"fa fa-facebook\"></i>");
             }
             );
@@ -1340,7 +1333,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef399167", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef398981", async() => {
                 WriteLiteral("<i class=\"fa fa-twitter\"></i>");
             }
             );
@@ -1355,7 +1348,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3100307", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3100121", async() => {
                 WriteLiteral("<i class=\"fa fa-linkedin\"></i>");
             }
             );
@@ -1370,7 +1363,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3101449", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3101263", async() => {
                 WriteLiteral("<i class=\"fa fa-pinterest\"></i>");
             }
             );
@@ -1385,7 +1378,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3102592", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3102406", async() => {
                 WriteLiteral("<i class=\"fa fa-dribbble\"></i>");
             }
             );
@@ -1413,7 +1406,7 @@ using OtoGaleriSitesi;
                                             <div class=""col-lg-6 col-md-6"">
                                                 <div class=""team-member-pro-pic"">
                                                     ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3104470", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3104284", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1438,7 +1431,7 @@ using OtoGaleriSitesi;
                                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sollicitudin fermentum dolor. Nunc nec augue urna. Cras varius orci vitae lacinia efficitur.</p>
                                                     <div class=""team-social-icon"">
                                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3106472", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3106286", async() => {
                 WriteLiteral("<i class=\"fa fa-facebook\"></i>");
             }
             );
@@ -1453,7 +1446,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3107614", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3107428", async() => {
                 WriteLiteral("<i class=\"fa fa-twitter\"></i>");
             }
             );
@@ -1468,7 +1461,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3108755", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3108569", async() => {
                 WriteLiteral("<i class=\"fa fa-linkedin\"></i>");
             }
             );
@@ -1483,7 +1476,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3109897", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3109711", async() => {
                 WriteLiteral("<i class=\"fa fa-pinterest\"></i>");
             }
             );
@@ -1498,7 +1491,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3111040", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3110854", async() => {
                 WriteLiteral("<i class=\"fa fa-dribbble\"></i>");
             }
             );
@@ -1526,7 +1519,7 @@ using OtoGaleriSitesi;
                                             <div class=""col-lg-6 col-md-6"">
                                                 <div class=""team-member-pro-pic"">
                                                     ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3112918", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3112732", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1551,7 +1544,7 @@ using OtoGaleriSitesi;
                                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sollicitudin fermentum dolor. Nunc nec augue urna. Cras varius orci vitae lacinia efficitur.</p>
                                                     <div class=""team-social-icon"">
                                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3114911", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3114725", async() => {
                 WriteLiteral("<i class=\"fa fa-facebook\"></i>");
             }
             );
@@ -1566,7 +1559,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3116053", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3115867", async() => {
                 WriteLiteral("<i class=\"fa fa-twitter\"></i>");
             }
             );
@@ -1581,7 +1574,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3117194", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3117008", async() => {
                 WriteLiteral("<i class=\"fa fa-linkedin\"></i>");
             }
             );
@@ -1596,7 +1589,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3118336", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3118150", async() => {
                 WriteLiteral("<i class=\"fa fa-pinterest\"></i>");
             }
             );
@@ -1611,7 +1604,7 @@ using OtoGaleriSitesi;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3119479", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3119293", async() => {
                 WriteLiteral("<i class=\"fa fa-dribbble\"></i>");
             }
             );
@@ -1685,7 +1678,7 @@ using OtoGaleriSitesi;
                         <div class=""row"">
  ");
             WriteLiteral("                           <!-- Articles Thumbnail Start -->\n                            <div class=\"col-lg-5\">\n                                <div class=\"article-thumb\">\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3122924", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3122738", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1710,7 +1703,7 @@ using OtoGaleriSitesi;
                                     <div class=""display-table-cell"">
                                         <div class=""article-body"">
                                             <h3>");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3124522", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3124336", async() => {
                 WriteLiteral("Rahatlıkta Hiçbirşeye Değişmem");
             }
             );
@@ -1748,7 +1741,7 @@ using OtoGaleriSitesi;
                             <div class=""col-lg-5 d-xl-none"">
   ");
             WriteLiteral("                              <div class=\"article-thumb\">\n                                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3126768", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3126582", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -1773,7 +1766,7 @@ using OtoGaleriSitesi;
                                     <div class=""display-table-cell"">
                                         <div class=""article-body"">
                                             <h3>");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3128366", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3128180", async() => {
                 WriteLiteral("Harika Bir Deneyim Yaşadım");
             }
             );
@@ -1803,7 +1796,7 @@ using OtoGaleriSitesi;
                             <div class=""col-lg-5 d-none d-xl-block"">
                                 <div class=""article-thumb"">
                                     ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3130260", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c3c3d0ede054ec59340e9a3f8c419ce395c88ef3130074", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

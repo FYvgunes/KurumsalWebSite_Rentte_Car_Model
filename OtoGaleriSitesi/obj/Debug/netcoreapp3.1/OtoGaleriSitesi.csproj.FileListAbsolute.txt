@@ -347,3 +347,7 @@
 /Users/kullanici/RiderProjects/OtoGaleriSitesi/OtoGaleriSitesi/obj/Debug/netcoreapp3.1/staticwebassets/OtoGaleriSitesi.StaticWebAssets.Manifest.cache
 /Users/kullanici/RiderProjects/OtoGaleriSitesi/OtoGaleriSitesi/obj/Debug/netcoreapp3.1/staticwebassets/OtoGaleriSitesi.StaticWebAssets.xml
 /Users/kullanici/RiderProjects/OtoGaleriSitesi/OtoGaleriSitesi/obj/Debug/netcoreapp3.1/OtoGaleriSitesi.genruntimeconfig.cache
+/Users/kullanici/RiderProjects/OtoGaleriSitesi/OtoGaleriSitesi/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs
+/Users/kullanici/RiderProjects/OtoGaleriSitesi/OtoGaleriSitesi/obj/Debug/netcoreapp3.1/Razor/Views/Home/Contact.cshtml.g.cs
+/Users/kullanici/RiderProjects/OtoGaleriSitesi/OtoGaleriSitesi/obj/Debug/netcoreapp3.1/Razor/Views/Home/Gallery.cshtml.g.cs
+/Users/kullanici/RiderProjects/OtoGaleriSitesi/OtoGaleriSitesi/obj/Debug/netcoreapp3.1/Razor/Views/Home/Services.cshtml.g.cs
