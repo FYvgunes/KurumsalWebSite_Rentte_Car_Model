@@ -39,6 +39,7 @@ namespace OtoGaleriSitesi
 
             app.UseMvcWithDefaultRoute();
             app.UseStaticFiles();
+            
 
             
 
