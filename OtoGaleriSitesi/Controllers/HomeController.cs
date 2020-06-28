@@ -1,4 +1,8 @@
+using System;
+using System.Net;
+using System.Net.Mail;
 using Microsoft.AspNetCore.Mvc;
+using OtoGaleriSitesi.Models;
 
 namespace OtoGaleriSitesi.Controllers
 {
@@ -25,6 +29,41 @@ namespace OtoGaleriSitesi.Controllers
         public IActionResult Contact()
         {
             return View();
+        }
+
+        [HttpPost]
+        public IActionResult Contact(Mail m)
+        {
+            try
+            {
+                SmtpClient client = new  SmtpClient("Smtp.gmail.com",587);
+                client.Credentials=new NetworkCredential("webdeveloperr3@gmail.com","1q2w3e4r5T*-?");
+                client.EnableSsl = true;
+
+                MailMessage msj = new MailMessage();
+                msj.From= new MailAddress(m.Email+" "+m.Adi+" "+m.Soyadi);
+                msj.To.Add("webdeveloperr3@gmail.com");
+                msj.Subject = m.Konu;
+                msj.Body = m.Mesaj;
+                client.Send(msj);
+
+                MailMessage msj1 = new MailMessage();
+                msj1.From=new MailAddress("webdeveloperr3@gmail.com","Rent A Car");
+                msj1.To.Add(m.Email);
+                msj1.Subject = "Mail'inize Cevap";
+                msj1.Body = "Size En kısa zamanda Döneceğiz. Teşekkür Ederiz Bizi tercih ettiğiniz için";
+                
+                client.Send(msj1);
+
+
+
+
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
         }
     }
 }
