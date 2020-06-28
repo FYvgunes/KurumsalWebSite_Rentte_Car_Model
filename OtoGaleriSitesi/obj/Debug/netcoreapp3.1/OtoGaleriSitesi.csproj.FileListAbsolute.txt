@@ -351,3 +351,5 @@
 /Users/kullanici/RiderProjects/OtoGaleriSitesi/OtoGaleriSitesi/obj/Debug/netcoreapp3.1/Razor/Views/Home/Contact.cshtml.g.cs
 /Users/kullanici/RiderProjects/OtoGaleriSitesi/OtoGaleriSitesi/obj/Debug/netcoreapp3.1/Razor/Views/Home/Gallery.cshtml.g.cs
 /Users/kullanici/RiderProjects/OtoGaleriSitesi/OtoGaleriSitesi/obj/Debug/netcoreapp3.1/Razor/Views/Home/Services.cshtml.g.cs
+/Users/kullanici/RiderProjects/OtoGaleriSitesi/OtoGaleriSitesi/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Footer.cshtml.g.cs
+/Users/kullanici/RiderProjects/OtoGaleriSitesi/OtoGaleriSitesi/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Header.cshtml.g.cs
