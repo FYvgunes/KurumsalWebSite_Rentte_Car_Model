@@ -46,7 +46,7 @@ namespace OtoGaleriSitesi.Controllers
                 MailMessage msj = new MailMessage();
                 msj.From = new MailAddress(m.Email, m.Adi + " " + m.Soyadi);
                 msj.To.Add("webdeveloperr3@gmail.com");
-                msj.Subject = m.Konu + "" + m.Email;
+                msj.Subject = m.Konu + "  " + m.Email;
                 msj.Body = m.Mesaj;
                 client.Send(msj);
 
